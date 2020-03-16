@@ -37,9 +37,9 @@ pd.options.display.max_columns = 45
 # We find it best to define a set of constants at the beginning of the notebook for clarity.
 
 
-HOME_PATH = "./"
-DATA_PATH = "./"
-MODEL_PATH = "./"
+HOME_PATH = "/home/ubuntu"
+DATA_PATH = "/home/ubuntu/data/"
+MODEL_PATH = "/home/ubuntu/model/"
 RESULTS_PATH = "/home/ubuntu/results/"
 
 ALL_DATA_FILE = "extra_small_all_object_data_in_dictionary_format.pkl"
