@@ -1,5 +1,8 @@
 ## space2vec: Model Code
 
+Detection of supernovae for astronomers is a task where machine learning can help reduce time resources, while increasing accuracy. In this project we build a supernova classification system to allow detection of images from the Dark Energy Survey using a ConvNet model. Read more: https://medium.com/dessa-news/space-2-vec-fd900f5566
+
+
 Check our the posts here: [space2vec.com](http://space2vec.com)
 
 The project behind the code is talked about in detail throughout the blog posts. But this
